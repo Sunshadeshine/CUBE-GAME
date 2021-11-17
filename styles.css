@@ -1,0 +1,79 @@
+body {
+  text-align: center;
+  background-color: #0A1931;
+}
+
+h1 {
+  color: #185ADB;
+  font-size: 7.5rem;
+  font-family: 'Rampart One', cursive;
+  margin-top: 2rem;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  text-shadow: 5px 0 #232931;
+}
+
+h3 {
+  color: #185ADB;
+  font-size: 4rem;
+  font-family: 'Rampart One', cursive;
+  margin-top: 0;
+  padding-top: 0;
+  text-shadow: 5px 0 #232931;
+}
+
+p {
+  font-family: 'Rampart One', cursive;
+  font-size: 2rem;
+  color: #03256C;
+}
+
+.p1 {
+  display: inline-block;
+}
+
+.p2 {
+  display: inline-block;
+}
+
+.main {
+  width: 70%;
+  margin: auto;
+}
+
+img {
+  width: 60%;
+}
+
+.bottom {
+  font-size: 1rem;
+}
+
+.btn {
+  float:bottom;
+  display: inline-block;
+  background: #164c70;
+  background-image: -webkit-linear-gradient(top, #164c70, #103952);
+  background-image: -moz-linear-gradient(top, #164c70, #103952);
+  background-image: -ms-linear-gradient(top, #164c70, #103952);
+  background-image: -o-linear-gradient(top, #164c70, #103952);
+  background-image: linear-gradient(to bottom, #164c70, #103952);
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: 'Indie Flower', cursive;
+  color: #ffffff;
+  font-size: 27px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #2494e3;
+  background-image: -webkit-linear-gradient(top, #2494e3, #16689e);
+  background-image: -moz-linear-gradient(top, #2494e3, #16689e);
+  background-image: -ms-linear-gradient(top, #2494e3, #16689e);
+  background-image: -o-linear-gradient(top, #2494e3, #16689e);
+  background-image: linear-gradient(to bottom, #2494e3, #16689e);
+  text-decoration: none;
+}
